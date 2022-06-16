@@ -1,5 +1,6 @@
 ## Description
 
+Refactored code to fit semantic html and css. Comments have been added.
 
 ## Screenshot of my app
 
