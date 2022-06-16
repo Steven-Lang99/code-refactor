@@ -1,1 +1,3 @@
-![Screen shot](code-refactor\assets\images\Screenshot 2022-06-16 150021.PNG)
+##Screenshot of my app
+
+![Screen shot](./assets/images/Screenshot%202022-06-16%20150021.png)
